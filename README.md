@@ -1,11 +1,11 @@
                    _____ __________________________  ____  ___
                   /  _  \\______   \__    ___/  _  \ \   \/  /
-                 /  /_\  \|       _/ |    | /  /_\  \ \     /  2018 Artax/ARTX
+                 /  /_\  \|       _/ |    | /  /_\  \ \     /  2019 Artax/XAX
                 /    |    \    |   \ |    |/    |    \/     \ 
                 \____|____/____|___/ |____|\____|____/___/\__\
                                      
 
-V1.0.0.0 - Artax PoS Merchantnode Chain [NO ICO]
+V2.1.0 - Artax PoS Merchantnode Chain [NO ICO]
 
 Artax is a Powerful Node-Based Pure PoS-based cryptocurrency.
 A community coin by the community, for the community.
@@ -66,14 +66,7 @@ Artax has had no Initial Coin Offering (ICO) and was subject to a true fair laun
 The only way people could get XAX originally was from mining. Per the
 original project roadmap, a range of decisions were made by the Dev Team/Committee and 
 the whole premine amount (still unspent from hash genesis) was then burned around
-a month after launch. It was decided that a forked chain would continue with the whole premine being disbursed to the following Dev-Committee members and their respective wallet addresses:
-
-
-@StakeAndNodes: AYo6KjNbrtH5nuFX4ES7GTq7BN2Gpib6rh - 75088.9525
-@gote: ANzsMsk2SrrpN5vyGbXNTXryGJpooXUiQT - 84025.55
-@ihackcoinz: ANqYimc5bTtugT98e4ykWp4fCveS86Qv7T - 52161.3825
-@calinux: AeAEgnZZMcKxd5DEKDy4VtETLssxvkJkeh  - 52161.3825
-@CryptoSazerac: AKHfJVADgWPjVDcES5LA98B1wR22tFiqQR - 52161.3825
+a month after launch. 
 
 The Premine Holdings of Artax.
 
